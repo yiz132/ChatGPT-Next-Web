@@ -20,6 +20,7 @@
     "@hello-pangea/dnd": "^16.3.0",
     "@svgr/webpack": "^6.5.1",
     "@vercel/analytics": "^0.1.11",
+    "crypto-js": "^4.1.1",
     "emoji-picker-react": "^4.5.1",
     "fuse.js": "^6.6.2",
     "html-to-image": "^1.11.11",
@@ -43,6 +44,7 @@
   },
   "devDependencies": {
     "@tauri-apps/cli": "^1.4.0",
+    "@types/crypto-js": "^4.1.2",
     "@types/node": "^20.3.3",
     "@types/react": "^18.2.14",
     "@types/react-dom": "^18.2.7",
